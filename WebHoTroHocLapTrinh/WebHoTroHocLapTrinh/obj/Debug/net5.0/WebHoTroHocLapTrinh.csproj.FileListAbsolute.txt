@@ -40,7 +40,6 @@ D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\Microsof
 D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -58,3 +57,4 @@ D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\runtimes
 D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebDoAnCoSo\WebHoTroHocLapTrinh\WebHoTroHocLapTrinh\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

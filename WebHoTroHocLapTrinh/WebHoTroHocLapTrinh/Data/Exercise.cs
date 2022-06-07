@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -19,5 +20,11 @@ namespace WebHoTroHocLapTrinh.Data
         public Guid? IdChapter { get; set; }
         [ForeignKey("IdChapter")]
         public Chapter Chapter { get; set; }
+        public ICollection<ExerciseDetail> ExerciseDetails { get; set; }
+
+        public Exercise()
+        {
+            ExerciseDetails = new List<ExerciseDetail>();
+        }
     }
 }
