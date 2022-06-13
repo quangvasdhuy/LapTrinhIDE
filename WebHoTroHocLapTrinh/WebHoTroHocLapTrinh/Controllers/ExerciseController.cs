@@ -47,6 +47,9 @@ namespace WebHoTroHocLapTrinh.Controllers
                     NameExercise = model.NameExercise,
                     CreatedAt = model.CreatedAt,
                     Description = model.Description,
+                    Input = model.Input,
+                    Output = model.Output,
+                    ApiRapid = model.ApiRapid,
                     Diffculty = model.Diffculty,
                     Image = model.Image,
                     IdChapter = model.IdChapter
@@ -70,6 +73,9 @@ namespace WebHoTroHocLapTrinh.Controllers
                 baitapItem.NameExercise = model.NameExercise;
                 baitapItem.CreatedAt = model.CreatedAt;
                 baitapItem.Description = model.Description;
+                baitapItem.Input = model.Input;
+                baitapItem.Output = model.Output;
+                baitapItem.ApiRapid = model.ApiRapid;
                 baitapItem.Diffculty = model.Diffculty;
                 baitapItem.Image = model.Image;
                 baitapItem.IdChapter = model.IdChapter;

@@ -10,7 +10,7 @@ namespace WebHoTroHocLapTrinh.Models
         [Required]
         [MaxLength(100)]
         public string NameChapter { get; set; }
-        [Required]
+        
         public Guid? IdSubject { get; set; }
         //public Subject Subject { get; set; }
     }

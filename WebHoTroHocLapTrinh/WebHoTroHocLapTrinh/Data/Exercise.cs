@@ -15,6 +15,9 @@ namespace WebHoTroHocLapTrinh.Data
         public string NameExercise { get; set; }
         public DateTime CreatedAt { get; set; }
         public string Description { get; set; }
+        public string Input { get; set; }
+        public string Output { get; set; }
+        public string ApiRapid { get; set; }
         public string Diffculty { get; set; }
         public string Image { get; set; }
         public Guid? IdChapter { get; set; }
