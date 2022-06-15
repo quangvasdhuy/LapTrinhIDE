@@ -103,5 +103,13 @@ namespace WebHoTroHocLapTrinh.Controllers
 
             return NoContent();
         }
+
+        [Route("GetAllChapter")]
+        [HttpGet]
+        public IActionResult GetAllChapter()
+        {
+            var dsChuong = _context.Chapters.ToList();
+            return Ok(dsChuong);
+        }
     }
 }

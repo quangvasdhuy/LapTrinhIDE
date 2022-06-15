@@ -88,5 +88,13 @@ namespace WebHoTroHocLapTrinh.Controllers
 
             return NoContent();
         }
+
+        [Route("GetAllSubject")]
+        [HttpGet]
+        public IActionResult GetAllSubject()
+        {
+            var dsMon = _context.Subjects.ToList();
+            return Ok(dsMon);
+        }
     }
 }
